@@ -8,3 +8,4 @@ blacklist
 abort
 master
 slave
+crazy
