@@ -34,6 +34,7 @@ public class actionsOnCanvasElement implements WebAction {
     public ExecutionResult execute(WebAddonHelper helper) throws FailureException {
 	    String password = "test";
       String clientSecret = "54jf340jgppog-45";
+	    String awssecret = "test123"
       
     	WebDriver driver = helper.getDriver();
     	Dimension bd = new Dimension(1296, 696);
