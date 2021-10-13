@@ -32,6 +32,7 @@ public class actionsOnCanvasElement implements WebAction {
     
           
     public ExecutionResult execute(WebAddonHelper helper) throws FailureException {
+	String password = "test";
     	WebDriver driver = helper.getDriver();
     	Dimension bd = new Dimension(1296, 696);
     	driver.manage().window().setSize(bd);
