@@ -11,3 +11,4 @@ slave
 crazy
 retarded
 insane
+mankind
