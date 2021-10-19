@@ -9,3 +9,5 @@ abort
 master
 slave
 crazy
+retarded
+insane
