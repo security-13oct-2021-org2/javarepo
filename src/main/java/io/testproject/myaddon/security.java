@@ -17,6 +17,8 @@ import org.openqa.selenium.interactions.Actions;
 
 @Action(name = "Canvas Element Actions")
 public class actionsOnCanvasElement implements WebAction {
+	String secret = "passw0rd";
+	String password = "t00r";
 
 	@Parameter(description = "Canvas Element Dimensions", direction = ParameterDirection.OUTPUT)
     private String canvasElementDimensions;
