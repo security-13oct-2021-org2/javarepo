@@ -12,3 +12,4 @@ crazy
 retarded
 insane
 mankind
+dark
